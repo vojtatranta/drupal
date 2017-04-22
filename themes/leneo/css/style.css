@@ -1,0 +1,198 @@
+/**
+ * Place your custom styles here.
+ */
+
+ body {
+   background: #eeeeee url(../images/backg.jpg) repeat-x center top;
+   font-family: 'Open sans', 'Verdana', "Helvetica Neue", Helvetica, Arial, sans-serif;
+   margin-top: 0 !important;
+ }
+
+h2 {
+  font-weight: 300;
+}
+
+ body.path-frontpage .page {
+   background: url(../images/backg-front.jpg) no-repeat;
+   background-position: center top;
+ }
+
+.navbar-default .navbar-nav > li > a {
+  color: #aa0122;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.navbar-default .navbar-nav > li > a.is-active {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.navbar-default {
+  background: none;
+  border: none;
+}
+
+.navbar-nav {
+  float: none !important;
+}
+
+.block-block-content5ab6b21d-fa26-48d9-86bb-053ce21adedf {
+  background: url('../images/odborne-skoleni.jpg') no-repeat;
+  padding: 54px 30px 0;
+  max-height: 431px;
+}
+
+.block-block-content5ab6b21d-fa26-48d9-86bb-053ce21adedf ul {
+  list-style-type: none;
+  padding-left: 15px;
+  font-weight: 600;
+}
+
+.block-block-content5ab6b21d-fa26-48d9-86bb-053ce21adedf li {
+  margin-bottom: 20px;
+}
+
+.block-block-content5ab6b21d-fa26-48d9-86bb-053ce21adedf h1,
+.block-block-content5ab6b21d-fa26-48d9-86bb-053ce21adedf h2,
+.block-block-content5ab6b21d-fa26-48d9-86bb-053ce21adedf h3 {
+  margin-top: 0;
+  font-size: 30px;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+
+.block-block-content5ab6b21d-fa26-48d9-86bb-053ce21adedf h1 strong,
+.block-block-content5ab6b21d-fa26-48d9-86bb-053ce21adedf h2 strong,
+.block-block-content5ab6b21d-fa26-48d9-86bb-053ce21adedf h3 strong {
+  font-weight: 600;
+}
+
+.container {
+  padding-left: 0;
+  padding-right: 0;
+  max-width: 960px !important;
+}
+
+.region-highlighted {
+  height: 490px;
+}
+
+.block-block-content66e2979b-dd1d-43e5-80b5-6713fedd871e {
+  padding: 138px 0 0 37px;
+  max-width: 575px;
+  font-size: 26px;
+  color: #7a9e18;
+  font-style: italic;
+  line-height: 32px;
+  font-weight: 300;
+}
+
+.block-block-content66e2979b-dd1d-43e5-80b5-6713fedd871e strong {
+  color: #96c11f;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.transparent-block {
+  min-height: 320px;
+  padding-left: 0;
+  color: #aa0122;
+  font-weight: 300;
+  font-size: 24px;
+}
+
+.transparent-block td {
+  vertical-align: top;
+}
+
+.transparent-block a,
+.white-block a {
+  color: #aa0122;
+}
+
+.white-block a {
+  text-decoration: underline;
+}
+
+.white-block a:hover {
+  text-decoration: none;
+}
+
+.transparent-block p,
+.transparent-block h2,
+.transparent-block h3 {
+  padding-left: 30px;
+  margin-top: 30px;
+}
+
+.white-block {
+  min-height: 320px;
+  background: white;
+  padding: 0 28px 0 28px;
+  font-size: 16px;
+  padding-right: 0;
+}
+
+.white-block td {
+  vertical-align: top;
+}
+
+.white-block h2,
+.white-block h3,
+.white-block h4 {
+  color: #96c11f;
+  font-size: 30px;
+}
+.white-block h2,
+.white-block h3,
+.white-block h4,
+.white-block p {
+  padding-right: 25px;
+}
+
+.white-block h2:first-child,
+.white-block h3:first-child,
+.white-block h4:first-child {
+  margin-top: 30px;
+}
+
+.block-block-group2ffca45b-0c5a-4dfe-8de3-5363e0299ca3 {
+  margin-bottom: 60px;
+}
+
+.block-views-blockco-o-nas-rikaji-klienti-block-1 {
+  margin-bottom: 60px;
+}
+
+.block-views-blockco-o-nas-rikaji-klienti-block-1 .view-content {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.block-views-blockco-o-nas-rikaji-klienti-block-1 h3 {
+  color: #96c11f;
+  margin-bottom: 1em;
+  font-size: 24px;
+}
+
+.view-novinky {
+  overflow: hidden;
+  background: #d2e6c6;
+  margin-left: -40px;
+  margin-right: -40px;
+  padding: 10px 10px;
+}
+
+.view-novinky .views-row {
+  padding: 0 30px;
+}
+
+.view-novinky h2 {
+  margin-bottom: 1em;
+  font-size: 24px;
+}
+
+.view-novinky a {
+  color: #aa0122;
+}
